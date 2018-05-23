@@ -1,0 +1,144 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/benjaminwilcox/Projects/active/gatsby-portfolio/" . ".cache/")
+ ("/Users/benjaminwilcox/Projects/active/" . "gatsby-portfolio/")
+ ("/Users/benjaminwilcox/Projects/active/gatsby-portfolio/src/" . "layouts/")
+ ("/Users/benjaminwilcox/ActiveProjects/rust-stuff/" . "communicator/")
+ ("/Users/benjaminwilcox/ActiveProjects/rust-stuff/communicator/" . "network/")
+ ("/Users/benjaminwilcox/ActiveProjects/gatsby/packages/" . "gatsby/")
+ ("/Users/benjaminwilcox/ActiveProjects/gatsby/" . "packages/")
+ ("/Users/benjaminwilcox/ActiveProjects/website/projects/" . "_posts/")
+ ("/Users/benjaminwilcox/ActiveProjects/website/blog/" . "_posts/")
+ ("/Users/benjaminwilcox/" . "ActiveProjects/")
+ ("/Users/benjaminwilcox/ActiveProjects/website/" . "projects/")
+ ("/Users/benjaminwilcox/ActiveProjects/gatsby-portfolio/src/" . "pages/")
+ ("/Users/benjaminwilcox/ActiveProjects/gatsby-portfolio/" . "src/")
+ ("/Users/benjaminwilcox/ActiveProjects/" . "gatsby-portfolio/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/benjaminwilcox/"
+ "/Users/benjaminwilcox/Projects/active/gatsby-portfolio/src/pages/"
+ "/Users/benjaminwilcox/Projects/active/gatsby-portfolio/"
+ "/Users/benjaminwilcox/Projects/active/gatsby-portfolio/src/layouts/"
+ "/Users/benjaminwilcox/Projects/active/gatsby-portfolio/data/posts/"
+ "/Users/benjaminwilcox/Projects/active/gatsby-portfolio/data/"
+ "/Users/benjaminwilcox/org/"
+ "/Users/benjaminwilcox/Projects/active/gatsby-portfolio/src/components/"
+ "/Users/benjaminwilcox/Projects/active/react-color/src/components/alpha/"
+ "/Users/benjaminwilcox/Projects/active/react-color/src/"
+ "/Users/benjaminwilcox/ActiveProjects/gatsby-portfolio/"
+ "/Users/benjaminwilcox/Projects/active/rust-stuff/"
+ "/Users/benjaminwilcox/ActiveProjects/rust-stuff/communicator/src/network/"
+ "/Users/benjaminwilcox/ActiveProjects/rust-stuff/communicator/src/"
+ "/Users/benjaminwilcox/ActiveProjects/website/projects/_posts/"
+ "/Users/benjaminwilcox/ActiveProjects/website/_posts/"
+ "/Users/benjaminwilcox/ActiveProjects/gatsby-portfolio/src/pages/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ ".emacs"
+ "#gatsby-node.js#"
+ "WAVE.md"
+ "music.org"
+ "Alpha.js"
+ "capsule-wardrobe-checklist.org"
+ "gatsby-config.js"
+ "weird-thoughts.org"
+ "story-ideas.org"
+ "main.rs"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/benjaminwilcox/" (23183 29519 660606 832000) ".composer/" ".yarn-cache/" ".datastorage/" ".zlogin" ".aliases" ".viminfo" ".bash_history" ".mongorc.js" ".gitconfig" ".cache/" ".python_history" "Downloads/" ".Xauthority" ".gem/" ".bash_profile" ".m2/" ".spacemacs" ".hyper.js" ".vscode/" ".mysql_history" ".ondmd18772" ".babel.json" "profile.svg" ".configprops/" "Documents/" "emacs-backups/" ".npm/" ".credentials/" ".keras/" ".Trash/" ".emacs~" ".profile" ".dbshell" "Applications/" ".emacs" ".dotnet/" ".vimrc" "Movies/" "ActiveProjects/" ".ssh/" ".rustup/" ".v8flags.6.1.534.42.d958c1f42f00b802574bcf196ae07248.json" "Mythos" ".cisco/" ".chocolate-doom/" ".ansible.cfg" ".homesick/" ".hyper_plugins/" ".bash_prompt" "Public/" "tensorflowenv/" ".lein/" "Google Drive/" ".bash_sessions/" ".cups/" ".gitignore_global" ".cocoapods/" ".android/" ".cargo/" ".node_repl_history" "apt-vim/" ".emacs.d/" "TestProjects/" ".IdentityService/" ".v8flags.5.4.500.44.benjaminwilcox.json" "wilcoxB_report#5.pages" ".vim.bak.1/" ".oracle_jre_usage/" ".erlang.cookie" "Artboard 1 Copy 7@2x.eps" "Artboard 1 Copy 7.png" ".lesshst" ".mkshrc" ".electron/" ".npmrc" "Library/" "Desktop/" ".rvm/" ".homestead/" ".now.json" ".gnome2/" ".nuget/" ".spacemacs.d/" ".rnd" ".bundle/" ".ondmd18771" ".atom/" ".multirust/" ".pylint.d/" "Pictures/" "Projects/" "Creative Cloud Files/" ".psql_history" ".local/" ".mix/" ".vue-templates/" ".ServiceHub/" "org/" ".omnisharp/" ".zshrc" ".bashrc" ".jssc/" ".subversion/" ".netrc" ".vagrant.d/" ".yarn-config/" "bin/" ".hgignore_global" ".path" ".CFUserTextEncoding" ".yarnrc" "dump.rdb" "VirtualBox VMs/" "Justinmind/" ".jspm/" ".hyperterm_plugins/" ".DS_Store" "chocolate-doom/" ".lldbinit" ".vim/" ".pomodoro" ".node-gyp/" ".heroku/" ".v8flags.4.6.85.31.benjaminwilcox.json" ".vimpkg/" ".yarn/" "Homestead/" "Music/" ".config/" ".hex/" "../" "./")
+
+ ("/Users/benjaminwilcox/Projects/active/gatsby-portfolio/src/pages/" (23169 4444 817320 657000) "colors.js" "colors.module.scss" "index.js" "page-2.js" "404.js" "landing.module.css" "../" "./")
+
+ ("/Users/benjaminwilcox/ActiveProjects/gatsby-portfolio/src/pages/" (23168 50155 930328 544000) "colors.js" "index.js" "page-2.js" "404.js" "landing.module.css" "colors.scss" "../" "./")
+
+ ("/Users/benjaminwilcox/ActiveProjects/gatsby-portfolio/" (23168 40454 929976 814000) "src/" ".cache/" "data/" ".git/" "gatsby-node.js" "static/" "gatsby-config.js" "package.json" ".gitignore" "public/" "yarn.lock" "README.md" "npm-shrinkwrap.json" "node_modules/" "LICENSE" ".DS_Store" "../" "./")
+
+ ("/Users/benjaminwilcox/Projects/active/gatsby-portfolio/src/components/" (23168 49719 425873 467000) "palette-blog.js" "palette-blog.module.scss" "header.js" "../" "./")
+
+ ("/Users/benjaminwilcox/Projects/active/gatsby-portfolio/src/layouts/" (23168 34218 63955 916000) "colors.js" "index.css" "index.js" "../" "./")
+
+ ("/Users/benjaminwilcox/Projects/active/gatsby-portfolio/" (23168 40454 929976 814000) "src/" ".cache/" "data/" ".git/" "gatsby-node.js" "static/" "gatsby-config.js" "package.json" ".gitignore" "public/" "yarn.lock" "README.md" "npm-shrinkwrap.json" "node_modules/" "LICENSE" ".DS_Store" "../" "./")
+
+ ("/Users/benjaminwilcox/Projects/active/gatsby-portfolio/.cache/" (23168 31482 314613 921000) "find-page.js" "loader.js" "app.js" "production-app.js" "pages.json" "async-requires.js" "sync-requires.js" "register-service-worker.js" "socketIo.js" "api-ssr-docs.js" "layouts/" "__tests__/" "root.js" "json/" "dev-history.js" "component-renderer.js" "emitter.js" "redux-state.json" "default-html.js" "api-runner-ssr.js" "test-require-error.js" "api-runner-browser.js" "dev-404-page.js" "cache/" "prefetcher.js" "fragments/" "develop-static-entry.js" "static-entry.js" "redirects.json" "../" "./")
+
+ ("/Users/benjaminwilcox/Projects/active/gatsby-portfolio/data/posts/" (23167 51981 351541 609000) "WAVE.md" "../" "./")
+
+ ("/Users/benjaminwilcox/Projects/active/" (23167 32258 375364 693000) "emailstack/" "react-hn/" "Motivator/" "neural-networks-and-deep-learning/" "react/" "CountR/" "MetalPlayground2.playground/" "StudentRecords/" "tmp/" "grimoire/" "RayTracer.playground/" "node/" "Squares/" "GameOfLife.playground/" "mithril-hn-pwa/" "portfolio/" "MindfulDesign/" "pomodoro/" "Mindful/" "react-color/" "ShmupCopy/" "TestGame/" "ImagePipelineTest.playground/" "package-lock.json" "reccantiblog/" "rust-stuff/" "testGrayMatter/" "gatsby/" "RainCat/" "gatsby-tut/" "BasicMetalProject/" "DOOM/" "StudentRecordsClient/" "gatsby-portfolio/" ".vagrant/" "HelloMetal/" "website/" "MetalPlayground.playground/" "MetalTriangleSwift/" "swipe-rogue/" "TEST" ".DS_Store" "chocolate-doom/" "gray-matter/" "SpritekitTest.playground/" "tools/" "InclusiveDesignPatterns/" "FileSystemDemo/" "TestAVKit1/" "habit-dashboard/" "Shmup/" "../" "./")
+
+ ("/Users/benjaminwilcox/org/" (23167 46861 576975 577000) "FlophouseRecommends.org~" "web-copy-notes.org" "anime-list.org" "FlophouseRecommends.org" "ideas.org~" "journal.org" "ATentativeTimelineOfBTS" "capsule-wardrobe-checklist.org" "candidate-music-video-songs.org" "tv-essentials.org" "music.org" "notes-to-care.org" "story-ideas.org" "ideas.org" "bumpy.org" "wayfairpro-con.org" "weird-thoughts.org" "journal.org~" "../" "./")
+
+ ("/Users/benjaminwilcox/Projects/active/gatsby-portfolio/data/" (23167 50669 565693 164000) "wave/" "danceAllNight/" "rainbow/" "theVirtualHeart/" "RIT/" "globalThinking/" "orderedListHacks/" "fitbit/" "meta/" "learnVCS/" ".DS_Store" "posts/" "swipeRogue/" "inspire/" "cathedralCorporation/" "ADS/" "../" "./")
+
+ ("/Users/benjaminwilcox/Projects/active/gatsby-portfolio/src/" (23167 43597 811007 671000) "pages/" "layouts/" "components/" "images/" ".DS_Store" "../" "./")
+
+ ("/Users/benjaminwilcox/Projects/active/react-color/src/components/alpha/" (23167 32344 120047 420000) "__snapshots__/" "Alpha.js" "AlphaPointer.js" "spec.js" "../" "./")
+
+ ("/Users/benjaminwilcox/Projects/active/react-color/src/" (23167 32344 140089 925000) "Alpha.js" "helpers/" "Slider.js" "Hue.js" "Twitter.js" "Sketch.js" "Chrome.js" "Photoshop.js" "Block.js" "Github.js" "components/" "Custom.js" "index.js" "Material.js" "Compact.js" "Swatches.js" "Circle.js" "../" "./")
+
+ ("/Users/benjaminwilcox/ActiveProjects/" (23143 11297 867117 81000) "emailstack/" "react-hn/" "Motivator/" "neural-networks-and-deep-learning/" "react/" "CountR/" "MetalPlayground2.playground/" "StudentRecords/" "tmp/" "grimoire/" "RayTracer.playground/" "node/" "Squares/" "GameOfLife.playground/" "mithril-hn-pwa/" "portfolio/" "MindfulDesign/" "pomodoro/" "Mindful/" "ShmupCopy/" "TestGame/" "ImagePipelineTest.playground/" "package-lock.json" "reccantiblog/" "rust-stuff/" "testGrayMatter/" "gatsby/" "RainCat/" "gatsby-tut/" "BasicMetalProject/" "DOOM/" "StudentRecordsClient/" "gatsby-portfolio/" ".vagrant/" "HelloMetal/" "website/" "MetalPlayground.playground/" "MetalTriangleSwift/" "swipe-rogue/" "TEST" ".DS_Store" "chocolate-doom/" "gray-matter/" "SpritekitTest.playground/" "tools/" "InclusiveDesignPatterns/" "FileSystemDemo/" "TestAVKit1/" "habit-dashboard/" "Shmup/" "../" "./")
+
+ ("/Users/benjaminwilcox/ActiveProjects/rust-stuff/communicator/src/" (23153 43993 634272 231000) "main.rs" "network/" "lib.rs" "client.rs" "../" "./")
+
+ ("/Users/benjaminwilcox/ActiveProjects/rust-stuff/communicator/src/network/" (23153 15787 603542 222000) "mod.rs" "server.rs" "../" "./")
+
+ ("/Users/benjaminwilcox/Projects/active/rust-stuff/" (23155 1176 394313 353000) "main" "functions/" "main.rs" "variables/" "rectangles/" "ownership/" "guessing_game/" "communicator/" "enums/" "hello_cargo/" "../" "./")
+
+ ("/Users/benjaminwilcox/Projects/active/rust-stuff/communicator/" (23150 35625 460774 3000) "src/" ".git/" ".gitignore" "Cargo.lock" "network/" "target/" "Cargo.toml" "../" "./")
+
+ ("/Users/benjaminwilcox/Projects/active/rust-stuff/communicator/src/" (23153 43993 634272 231000) "main.rs" "network/" "lib.rs" "client.rs" "../" "./")
+
+ ("/Applications/Emacs.app/Contents/Resources/info/" (22968 8930 0 0) "ido.info.gz" "htmlfontify.info.gz" "emacs-gnutls.info.gz" "ede.info.gz" "mairix-el.info.gz" "bovine.info.gz" "erc.info.gz" "ccmode.info.gz" "eintr.info.gz" "ediff.info.gz" "gnus.info.gz" "rcirc.info.gz" "cl.info.gz" "ada-mode.info.gz" "smtpmail.info.gz" "tramp.info.gz" "vip.info.gz" "pcl-cvs.info.gz" "ert.info.gz" "forms.info.gz" "remember.info.gz" "ebrowse.info.gz" "newsticker.info.gz" "dir" "mh-e.info.gz" "elisp.info.gz" "semantic.info.gz" "url.info.gz" "sc.info.gz" "srecode.info.gz" "ses.info.gz" "dired-x.info.gz" "dbus.info.gz" "woman.info.gz" "nxml-mode.info.gz" "org.info.gz" "info.info.gz" "emacs.info.gz" "calc.info.gz" "eieio.info.gz" "todo-mode.info.gz" "speedbar.info.gz" "eshell.info.gz" "eudc.info.gz" "octave-mode.info.gz" "wisent.info.gz" "auth.info.gz" "vhdl-mode.info.gz" "idlwave.info.gz" "widget.info.gz" "efaq.info.gz" "sieve.info.gz" "eww.info.gz" "pgg.info.gz" "emacs-mime.info.gz" "flymake.info.gz" "viper.info.gz" "edt.info.gz" "sasl.info.gz" "autotype.info.gz" "epa.info.gz" "message.info.gz" "reftex.info.gz" "../" "./")
+
+ ("/Users/benjaminwilcox/ActiveProjects/rust-stuff/" (23150 34143 907891 891000) "main" "functions/" "main.rs" "variables/" "rectangles/" "ownership/" "guessing_game/" "communicator/" "enums/" "hello_cargo/" "../" "./")
+
+ ("/Users/benjaminwilcox/ActiveProjects/rust-stuff/communicator/network/" (23150 35625 460750 605000) "../" "./")
+
+ ("/Users/benjaminwilcox/ActiveProjects/rust-stuff/communicator/" (23150 35625 460774 3000) "src/" ".git/" ".gitignore" "Cargo.lock" "network/" "target/" "Cargo.toml" "../" "./")
+
+ ("/Users/benjaminwilcox/ActiveProjects/website/projects/_posts/" (23103 28810 910141 428000) "2015-10-29-Websites.md" "2016-2-28-learnVCS.md" "2015-10-26-ADS.md" ".DS_Store" "../" "./")
+
+ ("/Users/benjaminwilcox/ActiveProjects/gatsby/packages/gatsby/" (23054 23496 920888 272000) "src/" "package.json" ".gitignore" "README.md" "cache-dir/" "node_modules/" "dist/" ".npmignore" "../" "./")
+
+ ("/Users/benjaminwilcox/ActiveProjects/gatsby/scripts/" (23038 12893 0 0) "prepublish.sh" "publish-canary.sh" "site-up-checker/" "check-versions.js" "flow-check.js" "publish-site.sh" "../" "./")
+
+ ("/Users/" (23051 37047 989343 92000) "Guest/" "Shared/" ".localized" "benjaminwilcox/" "../" "./")
+
+ ("/Users/benjaminwilcox/ActiveProjects/gatsby/" (23106 58307 609863 175000) ".travis.yml" ".cache/" "infrastructure/" ".git/" "lerna.json" ".flowconfig" "flow-typed/" ".prettierrc" ".github/" "packages/" "scripts/" "examples/" "CONTRIBUTING.md" "package.json" ".gitignore" "yarn.lock" "appveyor.yml" "README.md" ".editorconfig" "www/" "docs/" "node_modules/" ".eslintrc" "jest.config.js" ".babelrc.js" "plopfile.js" "CHANGELOG.md" "yarn-error.log" ".yarnrc" "netlify.toml" "LICENSE" "plop-templates/" ".babelrc" "../" "./")
+
+ ("/Users/benjaminwilcox/ActiveProjects/gatsby/packages/" (23053 1620 323887 462000) "gatsby-plugin-glamorous/" "gatsby-plugin-react-helmet/" "gatsby-plugin-styled-jsx/" "gatsby-plugin-sharp/" "gatsby-transformer-excel/" "gatsby-plugin-jss/" "gatsby-transformer-docx/" "gatsby-plugin-feed/" "gatsby-plugin-styled-components/" "gatsby-plugin-react-next/" "gatsby-remark-copy-linked-files/" "gatsby-link/" "gatsby-plugin-nprogress/" "gatsby-source-contentful/" "gatsby-plugin-sitemap/" "gatsby-plugin-catch-links/" "graphql-skip-limit/" "gatsby-source-wordpress/" "gatsby-plugin-glamor/" "gatsby-plugin-react-css-modules/" "gatsby-remark-autolink-headers/" "gatsby-plugin-preact/" "gatsby-remark-katex/" "gatsby-plugin-twitter/" "gatsby-dev-cli/" "gatsby-plugin-typescript/" "gatsby-cli/" "gatsby-plugin-canonical-urls/" "gatsby-remark-prismjs/" "gatsby-source-lever/" "gatsby-transformer-yaml/" "gatsby-source-filesystem/" "gatsby-transformer-remark/" "gatsby-plugin-styletron/" "gatsby-transformer-xml/" "gatsby-plugin-sass/" "gatsby-source-wordpress-com/" "gatsby-transformer-pdfimages/" "gatsby-transformer-json/" "gatsby-transformer-javascript-static-exports/" "gatsby/" "gatsby-react-router-scroll/" "gatsby-transformer-pdf/" "gatsby-remark-smartypants/" "gatsby-plugin-less/" "gatsby-plugin-google-tagmanager/" "gatsby-plugin-google-analytics/" "gatsby-module-loader/" "gatsby-source-medium/" "gatsby-source-hacker-news/" "gatsby-plugin-stylus/" "gatsby-transformer-sharp/" "gatsby-plugin-aphrodite/" "gatsby-plugin-typography/" "gatsby-plugin-emotion/" "gatsby-plugin-offline/" "gatsby-plugin-cxs/" "gatsby-transformer-csv/" "gatsby-image/" "gatsby-plugin-lodash/" "gatsby-plugin-netlify/" "gatsby-remark-images/" "gatsby-plugin-coffeescript/" "gatsby-transformer-react-docgen/" "gatsby-plugin-manifest/" "gatsby-plugin-postcss-sass/" "gatsby-source-drupal/" "gatsby-source-mongodb/" "gatsby-remark-responsive-iframe/" "gatsby-remark-code-repls/" "gatsby-transformer-toml/" "gatsby-transformer-documentationjs/" "gatsby-1-config-css-modules/" "../" "./")
+
+ ("/Users/benjaminwilcox/ActiveProjects/gatsby/packages/gatsby-transformer-remark/" (23054 23496 914112 371000) "src/" "on-node-create.js" "gatsby-node.js" "package.json" ".gitignore" "README.md" "index.js" "node_modules/" "extend-node-type.js" ".npmignore" "../" "./")
+
+ ("/Users/benjaminwilcox/ActiveProjects/gatsby/packages/gatsby-transformer-remark/src/" (23106 59222 257743 369000) "on-node-create.js" "gatsby-node.js" "__tests__/" "extend-node-type.js" "../" "./")
+
+ ("/Users/benjaminwilcox/ActiveProjects/gatsby/packages/gatsby-transformer-remark/src/__tests__/" (23106 63871 939692 395000) "__snapshots__/" "gatsby-node.js" "extend-node.js" "../" "./")
+
+ ("/Users/benjaminwilcox/ActiveProjects/website/projects/" (22471 37922 0 0) "assets/" "_drafts/" "_posts/" ".DS_Store" "../" "./")
+
+ ("/Users/benjaminwilcox/ActiveProjects/website/blog/_posts/" (22438 29733 0 0) "2015-10-26-Test.md" ".DS_Store" "2016-08-06-colosseum-intro.md" "../" "./")
+
+ ("/Users/benjaminwilcox/ActiveProjects/website/blog/" (22438 12152 0 0) "_posts/" "index.html" "../" "./")
+
+ ("/Users/benjaminwilcox/ActiveProjects/website/_site/" (22495 11959 0 0) "img/" "README.md" "blog/" "about/" "404.html" "index.html.orig" "projects/" "js/" "bower_components/" "CNAME" "css/" "LICENSE" "index.html" "favicon.ico" "feed.xml" "../" "./")
+
+ ("/Users/benjaminwilcox/ActiveProjects/website/_posts/" (22438 12152 0 0) ".DS_Store" "../" "./")
+
+ ("/Users/benjaminwilcox/ActiveProjects/website/" (22495 26495 0 0) "about.md" ".git/" "_sass/" "404.md" "_config.yml" "_site/" ".gitignore" "img/" "README.md" "blog/" "_layouts/" "index.html.orig" ".sass-cache/" "projects/" "js/" "bower_components/" "_posts/" "CNAME" "css/" "LICENSE" ".DS_Store" "index.html" "favicon.ico" "feed.xml" "_includes/" "../" "./")
+
+ ("/Users/benjaminwilcox/ActiveProjects/gatsby-portfolio/src/layouts/" (23103 27001 653581 901000) "index.css" "index.js" "../" "./")
+
+ ("/Users/benjaminwilcox/ActiveProjects/gatsby-portfolio/src/" (23102 56664 123058 888000) "pages/" "layouts/" "images/" ".DS_Store" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
